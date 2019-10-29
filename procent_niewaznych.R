@@ -23,3 +23,4 @@ X2Proc = sum(total_an$liczbaX2) / sum(total_an$liczbaNiewaznychKartGlosow) * 100
 X0Proc = sum(total_an$liczbaX0) / sum(total_an$liczbaNiewaznychKartGlosow) * 100
 XSProc = sum(total_an$liczbaXS) / sum(total_an$liczbaNiewaznychKartGlosow) * 100
 procNiewKG = sum(total_an$liczbaNiewaznychKartGlosow) / sum(total_an$liczbaKartWydanych) * 100
+procentNiew100Obwod = total_an$procentNiewaznychKG[100]
